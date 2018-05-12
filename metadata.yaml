@@ -1,0 +1,32 @@
+_repo: The-Solar-Magnet_29401
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meek, S. P. (Sterner St. Paul)
+    alias: Meek, Sterner St. Paul
+    birthdate: 1894
+    deathdate: 1972
+    gutenberg_agent_id: '25130'
+    url: http://www.gutenberg.org/2009/agents/25130
+    wikipedia: http://en.wikipedia.org/wiki/S.P._Meek
+description: Another episode in Dr Bird's long scientific duel with his country's
+  arch-enemy, Saranoff.
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2009-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Solar Magnet
+url: http://www.gutenberg.org/ebooks/29401
